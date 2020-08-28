@@ -1,0 +1,2 @@
+# linkgame
+Links de juegos
